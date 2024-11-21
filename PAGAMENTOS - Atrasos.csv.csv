@@ -1,0 +1,19 @@
+ID SERVICO,ID CLIENTE,NOME,PAGO,PAGAMENTO,DATA
+101,1,Helena,Sim,Cartão de Crédito,2024-01-26
+102,1,Helena,Sim,Transferência,2024-06-07
+103,1,Helena,Sim,Cartão de Crédito,2024-07-27
+104,1,Helena,Sim,Cartão de Crédito,2024-02-19
+105,2,Leonardo,Sim,Cartão Débito,2024-06-19
+106,3,Mariana,Sim,Pix,2024-03-09
+107,4,Natália,Sim,Pix,2024-07-31
+108,5,Otávio,Sim,Pix,2024-04-25
+109,6,Priscila,Sim,Cartão Débito,2024-03-29
+110,7,Rafael,Sim,Transferência,2024-05-24
+111,8,Sabrina,Sim,Cartão Débito,2024-09-21
+112,9,Tainá,Sim,Pix,2024-08-22
+113,10,Vanessa,Sim,Cartão Débito,2024-09-27
+114,11,Victor,Sim,Pix,2024-08-23
+115,12,Rodrigo,Não,-,-
+116,13,Alex,Sim,Cartão de Crédito,2024-02-05
+117,14,Ariel,Sim,Cartão de Crédito,2024-04-12
+118,15,Cris,Não,-,-

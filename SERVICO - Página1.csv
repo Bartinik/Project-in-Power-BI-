@@ -1,0 +1,19 @@
+ID SERVICO,ID CLIENTE,NOME,TIPO,TOTAL CLIENTE,DATA
+101,1,Helena,Aniversário,"R$ 2.800,00",2024-01-23
+102,1,Helena,Evento,"R$ 6.400,00",2024-06-03
+103,1,Helena,Edição,"R$ 9.000,00",2024-07-21
+104,1,Helena,Casamento,"R$ 18.000,00",2024-02-04
+105,2,Leonardo,Aniversário,"R$ 3.200,00",2024-06-15
+106,3,Mariana,Evento,"R$ 7.000,00",2024-02-28
+107,4,Natália,Evento,"R$ 4.800,00",2024-07-27
+108,5,Otávio,Casamento,"R$ 13.500,00",2024-04-10
+109,6,Priscila,Evento,"R$ 2.500,00",2024-03-23
+110,7,Rafael,Aniversário,"R$ 8.300,00",2024-05-16
+111,8,Sabrina,Evento,"R$ 5.400,00",2024-09-07
+112,9,Tainá,Evento,"R$ 17.000,00",2024-08-08
+113,10,Vanessa,Evento,"R$ 3.100,00",2024-09-19
+114,11,Victor,Aniversário,"R$ 7.500,00",2024-08-20
+115,12,Rodrigo,Casamento,"R$ 6.000,00",2024-07-15
+116,13,Alex,Edição,"R$ 20.000,00",2024-02-05
+117,14,Ariel,Evento,"R$ 3.800,00",2024-04-05
+118,15,Cris,Edição,"R$ 6.500,00",2024-02-22
